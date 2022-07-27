@@ -1,0 +1,22 @@
+table,
+th,
+td {
+    border: 1px solid;
+    margin-left: auto;
+    margin-right: auto;
+
+}
+
+body {
+    background-color: powderblue;
+    text-align: center;
+}
+
+th,
+td {
+    background-color: yellow;
+}
+
+button {
+    font-size: 24px;
+}
